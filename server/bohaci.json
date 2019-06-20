@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Jeff Bezos",
+    "majetek": "131 mld.",
+    "kontinent": "USA"
+  },
+  {
+    "id": 2,
+    "name": "Bill Gates",
+    "majetek": "96,5 mld.",
+    "kontinent": "USA"
+  },
+  {
+    "id": 3,
+    "name": "Warren Buffett",
+    "majetek": "82,5 mld.",
+    "kontinent": "USA"
+  }
+]
